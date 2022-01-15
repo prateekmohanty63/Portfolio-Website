@@ -248,3 +248,31 @@ export const blogs = [
     link: "https://github.com/prateekmohanty63/REROUTE-FINAL",
   },
 ];
+
+export const Competative_programming_info = [
+  {
+    role: "2 STARS",
+    company: "LeetCode",
+    companylogo: "/img/icons/common/leetcode.png",
+    date: "",
+    desc: "OVER 100 QUESTIONS SOLVED",
+    descBullets: [
+      "300 SUBMISSIONS IN THE LAST YEAR",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    ],
+  },
+  {
+    role: "5 STAR IN C++ AND PYTHON",
+    company: "Hackerrank",
+    companylogo: "/img/icons/common/hackerrank.png",
+    date: "May 2017 – May 2018",
+    desc: "ALL QUESTIONS OF C++ AND PYTHON SOLVED",
+  },
+  {
+    role: "365 RATING",
+    company: "Code Forces",
+    companylogo: "/img/icons/common/codeforces.jfif",
+    date: "Jan 2015 – Sep 2015",
+    desc: "1 MONTH STREAK",
+  },
+];
