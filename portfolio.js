@@ -5,7 +5,8 @@ export const greetings = {
   title: "Hi all, I'm Prateek",
   description:
     "Hello eveyone, Prateek here I am a backend developer with proficient knowledge in backend frameworks like Django/ flask / Nodejs/ Express. ",
-  resumeLink: "https://cv.hanzla.ga",
+  resumeLink:
+    "https://novoresume.com/editor/resume/cba735d0-3bb3-11eb-98cc-f7b8c2f9ecf4",
 };
 
 export const openSource = {
@@ -15,9 +16,9 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  facebook: "https://www.facebook.com/1hanzla100",
+  // facebook: "https://www.facebook.com/1hanzla100",
   instagram: "https://www.instagram.com/prateekmohanty08/",
-  twitter: "https://twitter.com/1hanzla100",
+  // twitter: "https://twitter.com/1hanzla100",
   github: "https://github.com/prateekmohanty63",
   linkedin: "https://www.linkedin.com/in/prateek-mohanty-160048165/",
 };
@@ -110,15 +111,15 @@ export const skillsSection = {
 export const SkillBars = [
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "90", //Insert relative proficiency in percentage
+    progressPercentage: "70", //Insert relative proficiency in percentage
   },
   {
     Stack: "Backend",
-    progressPercentage: "70",
+    progressPercentage: "90",
   },
   {
     Stack: "Programming",
-    progressPercentage: "60",
+    progressPercentage: "80",
   },
 ];
 
@@ -136,19 +137,19 @@ export const educationInfo = [
   {
     schoolName: "Vellore Institute of Technology,chennai",
     subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2019",
-    desc: "Participated in the research of XXX and published 3 papers.",
+    duration: "September 2020 - May 2024",
+    desc: "",
     descBullets: [
-      "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Pursuing Computer Science in Vellore Institute of Technology ",
+      "Currently in 2nd Year of Graduation",
     ],
   },
   {
     schoolName: "Bharatiya vidya bhavan",
     subHeader: "Completed my 10th standard",
-    duration: "September 2013 - April 2017",
-    desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-    descBullets: ["Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit"],
+    duration: "September 2017 - April 2018",
+    desc: "Represented the school in National Green Building Competetion ",
+    descBullets: ["Took part in many extra-ciricular activities"],
   },
 ];
 
@@ -157,26 +158,26 @@ export const experience = [
     role: "Tech Lead",
     company: "Reroute",
     companylogo: "/img/icons/common/Reroute.svg",
-    date: "June 2018 – Present",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "June 2020 – Present",
+    desc: "Working towards building a platform for the startup to expand its reach",
     descBullets: [
-      "Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Leaded the Project",
+      "Taking care of the backend development",
     ],
   },
   {
     role: "Technical Team",
     company: "OWASP",
     companylogo: "/img/icons/common/owasp-final.png",
-    date: "May 2017 – May 2018",
-    desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "September 2020 – Present",
+    desc: "In OWASP we work towards making internet a much safer place by spreading awarness among people about internet and technology best practices",
   },
   {
     role: "Technical Team",
     company: "Technocrat",
     companylogo: "/img/icons/common/technocrat.jfif",
-    date: "Jan 2015 – Sep 2015",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    date: "Sept 2020 – Present",
+    desc: "In techocrat we built Robots which can help the humanity and society become a better place",
   },
 ];
 
@@ -207,12 +208,12 @@ export const projects = [
 
 export const feedbacks = [
   {
-    name: "Hassan Mehmood",
+    name: "Ritwik",
     feedback:
       "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
   },
   {
-    name: "Maheen Altaf",
+    name: "Sandeep shah",
     feedback:
       "the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
   },
@@ -221,31 +222,39 @@ export const feedbacks = [
 export const blogs = [
   {
     role: "Blog-1",
-    company: "Reroute",
+    company: "To Cloud or Not to Cloud: How should you store your data?",
     companylogo: "/img/icons/common/Reroute.svg",
     date: "June 2018 – Present",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    desc: "To Cloud or Not to Cloud: How should you store your data?",
     descBullets: [
       "Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     ],
-    link: "https://github.com/prateekmohanty63/REROUTE-FINAL",
+    link: "https://lnkd.in/gK7Bgix5",
   },
   {
     role: "Blog-2",
     company: "OWASP",
     companylogo: "/img/icons/common/owasp-final.png",
     date: "May 2017 – May 2018",
-    desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    link: "https://github.com/prateekmohanty63/REROUTE-FINAL",
+    desc: "Pegasus: A Spyware developed by the Israeli cyberarms firm, NSO Group",
+    link: "https://lnkd.in/gMG7Z35w",
   },
   {
     role: "Blog-3",
     company: "Technocrat",
     companylogo: "/img/icons/common/technocrat.jfif",
     date: "Jan 2015 – Sep 2015",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    link: "https://github.com/prateekmohanty63/REROUTE-FINAL",
+    desc: "Data Loss Prevention: An Introduction",
+    link: "https://blog.owaspvit.com/2021/01/data-loss-prevention-introduction.html",
+  },
+  {
+    role: "Blog-4",
+    company: "Technocrat",
+    companylogo: "/img/icons/common/technocrat.jfif",
+    date: "Jan 2015 – Sep 2015",
+    desc: "CORS POLICY",
+    link: "https://blog.owaspvit.com/2021/06/cors-policy.html",
   },
 ];
 
