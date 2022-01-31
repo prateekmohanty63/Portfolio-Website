@@ -267,7 +267,7 @@ export const Competative_programming_info = [
     desc: "OVER 100 QUESTIONS SOLVED",
     descBullets: [
       "300 SUBMISSIONS IN THE LAST YEAR",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "100 PLUS QUESTIONS SOLVED",
     ],
   },
   {

@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
-	"repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
+	"repository": "https://github.com/prateekmohanty63/Portfolio-Website",
 	"author": "Hanzla Tauqeer",
 	"license": "MIT",
 	"scripts": {
@@ -24,7 +24,7 @@
 		"moment": "^2.29.1",
 		"next": "11.1.2",
 		"nouislider": "^15.2.0",
-		"prop-types": "^15.7.2",
+		"prop-types": "^15.8.1",
 		"react": "17.0.2",
 		"react-datetime": "^3.0.4",
 		"react-dom": "17.0.2",
