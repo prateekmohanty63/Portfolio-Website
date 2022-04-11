@@ -179,6 +179,13 @@ export const experience = [
     date: "Sept 2020 – Present",
     desc: "In techocrat we built Robots which can help the humanity and society become a better place",
   },
+  {
+    role: "Intern",
+    company: "Variance",
+    // companylogo: "/img/icons/common/technocrat.jfif",
+    date: "April 2022 – Present",
+    desc: "Here I am working as a backend developer ,given the task of developing algorithms to make the trading bot much more efficient with precise market analysis",
+  },
 ];
 
 export const projects = [
