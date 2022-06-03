@@ -180,11 +180,11 @@ export const experience = [
     desc: "In techocrat we built Robots which can help the humanity and society become a better place",
   },
   {
-    role: "Intern",
-    company: "Variance",
-    companylogo: "/img/icons/common/varianceTech.jpg",
+    role: "Summer Intern",
+    company: "Reserve Bank Innovation Hub",
+    companylogo: "/img/icons/common/RBIH.jpg",
     date: "April 2022 – Present",
-    desc: "Here I am working as a backend developer ,given the task of developing algorithms to make the trading bot much more efficient with precise market analysis",
+    desc: "Here I am working as a backend developer, working on various technologies and mechanisms that could be helpful for FinTechs. Moreover working on designing robust mechanisms for Indian Payment system ",
   },
 ];
 
