@@ -267,14 +267,14 @@ export const blogs = [
 
 export const Competative_programming_info = [
   {
-    role: "2 STARS",
+    role: "3 STARS",
     company: "LeetCode",
     companylogo: "/img/icons/common/leetcode.png",
     date: "",
-    desc: "OVER 100 QUESTIONS SOLVED",
+    desc: "200 QUESTIONS SOLVED",
     descBullets: [
-      "300 SUBMISSIONS IN THE LAST YEAR",
-      "100 PLUS QUESTIONS SOLVED",
+      "600 SUBMISSIONS IN THE LAST YEAR",
+      "200 PLUS QUESTIONS SOLVED",
     ],
   },
   {
