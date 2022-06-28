@@ -200,7 +200,7 @@ export const projects = [
     github: "https://github.com/technocrats-robotics/techno-quiz",
   },
   {
-    name: "SQL INJECTION VUNREABILITY",
+    name: "SQL INJECTION  VULNERABILITY",
     desc: "A website giving viewers a understanding of SQL INJECTION and how it is used by mailcious users",
     github: "https://github.com/prateekmohanty63/SQL_Injection_Simulation",
     link: "https://example.com",
@@ -209,6 +209,12 @@ export const projects = [
     name: "Student study portal",
     desc: "A one stop website for students,helping them to organize their work and making managing schedule easier",
     github: "https://github.com/prateekmohanty63/Student-Study-Portal",
+    link: "https://example.com",
+  },
+  {
+    name: "Project Hospital",
+    desc: "A website for patients , Doctors and Hospitals where the doctors and Hospitals can register themselves. The patients would have the choice of booking appointments",
+    github: "https://github.com/prateekmohanty63/Project-Hospital",
     link: "https://example.com",
   },
 ];
