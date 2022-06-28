@@ -275,6 +275,8 @@ export const Competative_programming_info = [
     descBullets: [
       "600 SUBMISSIONS IN THE LAST YEAR",
       "200 PLUS QUESTIONS SOLVED",
+      "HIGHEST STREAK : 30 days",
+      "BADGES:JUNE BADGE"
     ],
   },
   {
