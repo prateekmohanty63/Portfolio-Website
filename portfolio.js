@@ -155,6 +155,13 @@ export const educationInfo = [
 
 export const experience = [
   {
+    role: "Summer Intern",
+    company: "Reserve Bank Innovation Hub",
+    companylogo: "/img/icons/common/RBIH.jpg",
+    date: "April 2022 – Present",
+    desc: "Here I am working as a backend developer, working on various technologies and mechanisms that could be helpful for FinTechs. Moreover working on designing robust mechanisms for Indian Payment system ",
+  },
+  {
     role: "Tech Lead",
     company: "Reroute",
     companylogo: "/img/icons/common/Reroute.svg",
@@ -179,13 +186,7 @@ export const experience = [
     date: "Sept 2020 – Present",
     desc: "In techocrat we built Robots which can help the humanity and society become a better place",
   },
-  {
-    role: "Summer Intern",
-    company: "Reserve Bank Innovation Hub",
-    companylogo: "/img/icons/common/RBIH.jpg",
-    date: "April 2022 – Present",
-    desc: "Here I am working as a backend developer, working on various technologies and mechanisms that could be helpful for FinTechs. Moreover working on designing robust mechanisms for Indian Payment system ",
-  },
+ 
 ];
 
 export const projects = [
