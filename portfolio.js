@@ -4,9 +4,9 @@ export const greetings = {
   name: "Prateek Mohanty",
   title: "Hi all, I'm Prateek",
   description:
-    "Hello eveyone, Prateek here I am a backend developer with proficient knowledge in backend frameworks like Django/ flask / Nodejs/ Express. ",
+    "Hello eveyone, Prateek here I am a Full Stack developer with proficient knowledge in frontend and backend frameworks like Django/ flask / Nodejs/ Express /HTML /CSS / JS / Docker / Kubernetes. ",
   resumeLink:
-    "https://novoresume.com/editor/resume/cba735d0-3bb3-11eb-98cc-f7b8c2f9ecf4",
+    "https://drive.google.com/file/d/1TTbxJu12rpFBvuRoe96BeJGmaUH_4IRT/view?usp=sharing",
 };
 
 export const openSource = {
