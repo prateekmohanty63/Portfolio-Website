@@ -158,8 +158,15 @@ export const experience = [
     role: "Summer Intern",
     company: "Reserve Bank Innovation Hub",
     companylogo: "/img/icons/common/RBIH.jpg",
-    date: "April 2022 – Present",
+    date: "May 2022 – July 2022 ",
     desc: "Here I am working as a backend developer, working on various technologies and mechanisms that could be helpful for FinTechs. Moreover working on designing robust mechanisms for Indian Payment system ",
+  },
+  {
+     role:"Full Stack Developer",
+     company:"Indian Institute of Science",
+     companylogo:"/img/icons/common/IISC.jpeg",
+     date:"September 2022 - present",
+     desc:"Here I am working as a Full Stack Developer. We are on an endeavour to develop India Open Science Lab under the DST inspire scheme of government of India.I am primarily using Django,HTML,CSS,JS ,Redis and MQTT Protocol to make interface which can interact with Kuka Robot. This will make performing of experiments much faster and at the same time eliminate human involvement.",
   },
   {
     role: "Tech Lead",
