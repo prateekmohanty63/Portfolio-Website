@@ -155,19 +155,27 @@ export const educationInfo = [
 
 export const experience = [
   {
+    role:"Full Stack Developer",
+    company:"Indian Institute of Science",
+    companylogo:"/img/icons/common/IISC.jpeg",
+    date:"September 2022 - present",
+    desc:"Here I am working as a Full Stack Developer. We are on an endeavour to develop India Open Science Lab under the DST inspire scheme of government of India.I am primarily using Django,HTML,CSS,JS ,Redis and MQTT Protocol to make interface which can interact with Kuka Robot.",
+ },
+ {
+  role:"Prism Developer",
+  company:"Samsung India",
+  companylogo:"/img/icons/common/samsung.jpg",
+  date:"December 2022 - present",
+  desc:"Here I am working as a Developer on block-chain technology , we are working on developing a automated market maker and liquidity provider",
+},
+  {
     role: "Summer Intern",
     company: "Reserve Bank Innovation Hub",
     companylogo: "/img/icons/common/RBIH.jpg",
     date: "May 2022 – July 2022 ",
     desc: "Here I am working as a backend developer, working on various technologies and mechanisms that could be helpful for FinTechs. Moreover working on designing robust mechanisms for Indian Payment system ",
   },
-  {
-     role:"Full Stack Developer",
-     company:"Indian Institute of Science",
-     companylogo:"/img/icons/common/IISC.jpeg",
-     date:"September 2022 - present",
-     desc:"Here I am working as a Full Stack Developer. We are on an endeavour to develop India Open Science Lab under the DST inspire scheme of government of India.I am primarily using Django,HTML,CSS,JS ,Redis and MQTT Protocol to make interface which can interact with Kuka Robot. This will make performing of experiments much faster and at the same time eliminate human involvement.",
-  },
+ 
   {
     role: "Tech Lead",
     company: "Reroute",
