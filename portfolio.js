@@ -148,7 +148,7 @@ export const educationInfo = [
     schoolName: "Bharatiya vidya bhavan",
     subHeader: "Completed my 10th standard",
     duration: "September 2017 - April 2018",
-    desc: "Represented the school in National Green Building Competetion ",
+    desc: "Times Spark Scholar , Represented the school in National Green Building Competetion ",
     descBullets: ["Took part in many extra-ciricular activities"],
   },
 ];
@@ -293,10 +293,10 @@ export const Competative_programming_info = [
     company: "LeetCode",
     companylogo: "/img/icons/common/leetcode.png",
     date: "",
-    desc: "200 QUESTIONS SOLVED",
+    desc: "500 QUESTIONS SOLVED",
     descBullets: [
       "600 SUBMISSIONS IN THE LAST YEAR",
-      "200 PLUS QUESTIONS SOLVED",
+      "500 PLUS QUESTIONS SOLVED",
       "HIGHEST STREAK : 30 days",
       "BADGES:JUNE BADGE"
     ],
